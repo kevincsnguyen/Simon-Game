@@ -1,0 +1,47 @@
+.icons {
+  padding-top: 20px;
+}
+
+.about-image {
+  float: left;
+}
+
+.about-text {
+  padding-left: 50px;
+}
+
+.portfolio {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-area {
+  margin-top: 20px;
+}
+
+.icons {
+  padding-top: 20px;
+}
+
+.about-image {
+  float: left;
+}
+
+.about-text {
+  padding-left: 50px;
+}
+
+.profile-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
